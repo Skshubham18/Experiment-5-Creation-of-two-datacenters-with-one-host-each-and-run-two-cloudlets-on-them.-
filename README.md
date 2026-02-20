@@ -371,7 +371,8 @@ Cloudlet 3 | Length: 80000 | VM: 1 | Datacenter: 3 | Time: 160.0
 
 
 
-<img width="643" height="146" alt="image" src="https://github.com/user-attachments/assets/6328f50e-879b-48da-8775-91858c6d6233" />
+<img width="529" height="127" alt="image" src="https://github.com/user-attachments/assets/b44991b0-b51c-4ecb-b02f-cd2e3065f601" />
+
 
 
 ---
